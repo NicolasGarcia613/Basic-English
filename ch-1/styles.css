@@ -1,0 +1,23 @@
+/* .container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+
+button {
+    margin-left: 20px;
+    background-color: lightblue;
+}
+th, td {
+    font-size: x-large;
+    
+}
+span{
+    font-weight: bolder;
+}
+
+span .carousel-control-prev-icon {
+    color: black;
+}
